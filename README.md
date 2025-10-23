@@ -1,0 +1,1 @@
+Ce projet implémente un serveur multi-threads capable de gérer plusieurs clients simultanément pour effectuer des opérations mathématiques. Le serveur utilise une communication par objets sérialisés et maintient un compteur global synchronisé du nombre total d'opérations traitées.
